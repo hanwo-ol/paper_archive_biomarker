@@ -11,10 +11,9 @@ permalink: /eli5/
 KIST와 전북대병원이 협업 논의 중인 것은 혈당 시험지처럼, 피·침·눈물 한 방울로 뇌졸중이나 편두통을 바로 진단하는 카트리지다.
 
 - **코펩틴**은 몸에 급한 일이 생기면 오르는 물질이다. 문제는 뇌졸중이 아니어도 스트레스만 받으면 오른다는 것인데, 그래서 코펩틴 혼자 쓰면 실제 뇌졸중 환자 13명 중 3명을 놓친다.
-
-<img width="767" height="381" alt="image" src="https://github.com/user-attachments/assets/8cd05309-d112-4cf2-8518-9b9b7377ad23" />
-
+  - Value of copeptin and the S-100b protein assay in ruling out the diagnosis of stroke-induced dizziness pattern in emergency departments
   - IF 2025: 3.6 (without self citation - 3.1)
+
 
 - **S100β**는 다르다. 뇌 조직이 실제로 손상됐을 때만 새어 나온다. 두 개를 같이 쓰면 코펩틴이 놓친 3명을 S100β가 잡아내서, 파일럿 연구에서 13명 전원을 놓치지 않았다.
 
