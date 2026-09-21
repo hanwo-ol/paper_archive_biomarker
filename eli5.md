@@ -10,6 +10,14 @@ KIST와 전북대병원은
 - 혈액·침·눈물 카트리지 센서 개발과
 - 안구운동 AI 분석(Eye-ECG)을 함께 논의 중이다.
 
+바이오센서 카트리지 쪽은 아래 순서로 단계를 밟는다고 제안받았다: **코펩틴 단일 → 코펩틴+S100β 2-plex → CGRP 안정화 → 눈물 용출 표준화**. 이 페이지도 그 순서를 그대로 따라간다.
+
+<img width="1288" height="76" alt="image" src="https://github.com/user-attachments/assets/ab1f951c-e973-4615-b7b0-751e7558a8db" />
+
+> 2026-08-25, 이관희 교수님 메일
+
+---
+
 ### 코펩틴
 
 **코펩틴**은 몸에 급한 일이 생기면 오르는 물질이다. 문제는 뇌졸중이 아니어도 스트레스만 받으면 오른다는 것인데, 그래서 코펩틴 혼자 쓰면 실제 뇌졸중 환자 13명 중 3명을 놓친다.
@@ -32,16 +40,7 @@ KIST와 전북대병원은
 
 ### CGRP
 
-**CGRP**는 어느 비교냐에 따라 결과가 갈린다.
-
-#### 왜 CGRP를 짚는가
-CGRP는 제시해주신 협업 로드맵의 3단계(코펩틴 단일 → 코펩틴+S100β 2-plex → **CGRP 안정화** → 눈물 용출 표준화)에 포함돼 있어 짚어 보았다.
-
-<img width="1288" height="76" alt="image" src="https://github.com/user-attachments/assets/ab1f951c-e973-4615-b7b0-751e7558a8db" />
-
-> 2026-08-25, 이관희 교수님 메일
-
----
+**CGRP**는 로드맵 3단계("CGRP 안정화")다. 그런데 어느 비교냐에 따라 결과가 갈린다.
 
 #### 일반 편두통에서는 (참고)
 침에서 뽑아낸 CGRP가 편두통 환자 전반을 대조군과 구분하는 데 쓸모가 있다는 보고가 해외 연구에서 나온다 (Salivary CGRP can monitor the different migraine phases: CGRP (in)dependent attacks., IF 2025: 5.8) .
