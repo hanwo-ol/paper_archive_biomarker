@@ -28,4 +28,4 @@ JBUH Vestibular LAB · 제작/최종 수정: 2026-09-21
 
 ## KIST-JBNU 공동연구 바이오센서 마커 문헌 근거
 
-전북대학교병원 × KIST 생체분자인식연구센터 다중 바이오센서 카트리지(코펩틴/S100β/CGRP/눈물 anti-AChR)가 각각 어떤 문헌 근거를 갖는지 정리. [바로가기]({{ '/biosensor-markers/' | relative_url }})
+전북대학교병원 × KIST 생체분자인식연구센터 다중 바이오센서 카트리지(코펩틴/S100B/CGRP/눈물 anti-AChR)가 각각 어떤 문헌 근거를 갖는지 정리. [바로가기]({{ '/biosensor-markers/' | relative_url }})
