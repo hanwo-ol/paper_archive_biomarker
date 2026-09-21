@@ -44,7 +44,7 @@ KIST와 전북대병원은
 
 **CGRP**는 로드맵 3단계("CGRP 안정화")다. 그런데 어느 비교냐에 따라 결과가 갈린다.
 
-#### 일반 편두통에서는
+#### EM의 경우
 침에서 뽑아낸 CGRP가 편두통 환자 전반을 대조군과 구분하는 데 쓸모가 있다는 보고가 해외 연구에서 나온다 (Salivary CGRP can monitor the different migraine phases: CGRP (in)dependent attacks., IF 2025: 5.8) .
 
 <img width="750" height="464" alt="image" src="https://github.com/user-attachments/assets/ffed84ac-53c9-4b69-8833-b6d8039214a7" />
@@ -78,8 +78,13 @@ KIST와 전북대병원은
 #### VM-HC를 다룬 다른 연구
 **Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했다.
 
+<img width="1069" height="613" alt="image" src="https://github.com/user-attachments/assets/66cf410c-ceb2-4a93-8f12-129d8f2442a2" />
 
+<img width="1085" height="272" alt="image" src="https://github.com/user-attachments/assets/74ad9b07-84d7-4a83-9522-225d0ea6c393" />
 
+<img width="1070" height="574" alt="image" src="https://github.com/user-attachments/assets/8ed8704b-115b-46d2-95eb-2628546864ee" />
+
+---
 
 #### 왜 갈렸을까
 처음엔 채혈 시점을 의심했다. CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985, *Regulatory Peptides* — 정맥주사 실험에서 반감기 6.9±0.9분, 느린 성분 26.4±4.7분. 단 1985년 건강인 대상 합성 CGRP 주입 실험값)을 감안하면 자연스러운 의심이었다. 그런데 확인해보니 Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(다만 최소 경과시간은 미기록), **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의차가 없었다(p=0.092) — 시점 가설은 기각됐다.
