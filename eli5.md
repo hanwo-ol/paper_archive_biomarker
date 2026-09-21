@@ -10,7 +10,9 @@ KIST와 전북대병원은
 - 혈액·침·눈물 카트리지 센서 개발과
 - 안구운동 AI 분석(Eye-ECG)을 함께 논의 중이다.
 
-바이오센서 카트리지 쪽은 아래 순서로 단계를 밟는다고 제안받았다: **코펩틴 단일 → 코펩틴+S100β 2-plex → CGRP 안정화 → 눈물 용출 표준화**. 이 페이지도 그 순서를 그대로 따라간다.
+바이오센서 카트리지 쪽은 아래 순서로 단계를 밟는다고 제안받았다.
+**코펩틴 단일 → 코펩틴+S100β 2-plex → CGRP 안정화 → 눈물 용출 표준화**. 
+이에 맞게 논문 몇 편을 가져와서 브리핑 한다.
 
 <img width="1288" height="76" alt="image" src="https://github.com/user-attachments/assets/ab1f951c-e973-4615-b7b0-751e7558a8db" />
 
@@ -42,7 +44,7 @@ KIST와 전북대병원은
 
 **CGRP**는 로드맵 3단계("CGRP 안정화")다. 그런데 어느 비교냐에 따라 결과가 갈린다.
 
-#### 일반 편두통에서는 (참고)
+#### 일반 편두통에서는
 침에서 뽑아낸 CGRP가 편두통 환자 전반을 대조군과 구분하는 데 쓸모가 있다는 보고가 해외 연구에서 나온다 (Salivary CGRP can monitor the different migraine phases: CGRP (in)dependent attacks., IF 2025: 5.8) .
 
 <img width="750" height="464" alt="image" src="https://github.com/user-attachments/assets/ffed84ac-53c9-4b69-8833-b6d8039214a7" />
@@ -51,7 +53,7 @@ KIST와 전북대병원은
 
 ---
 
-#### 우리가 실제로 필요한 비교 — 전정편두통(VM)에서는
+#### 전정편두통(VM)에서는
 직접 수행했던 2025년 연구(Bai, Chu, Kang, Chae, Dieterich, Oh, *Cephalalgia*)는 만성편두통(CM)·전정편두통(VM)·건강대조군(HC) 세 그룹을 함께 비교했다. 
 (No change in interictal plasma and salivary CGRP levels in individuals with vestibular migraine corresponding to episodic migraine., IF 2025: 5.8)
 
@@ -73,8 +75,11 @@ KIST와 전북대병원은
 
 ---
 
-#### 그런데 다른 독립 연구는 반대로 말한다
-실제로 VM-HC를 비교한 다른 독립 연구를 찾아보니 결과가 갈렸다. **Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했다.
+#### VM-HC를 다룬 다른 연구
+**Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했다.
+
+
+
 
 #### 왜 갈렸을까
 처음엔 채혈 시점을 의심했다. CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985, *Regulatory Peptides* — 정맥주사 실험에서 반감기 6.9±0.9분, 느린 성분 26.4±4.7분. 단 1985년 건강인 대상 합성 CGRP 주입 실험값)을 감안하면 자연스러운 의심이었다. 그런데 확인해보니 Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(다만 최소 경과시간은 미기록), **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의차가 없었다(p=0.092) — 시점 가설은 기각됐다.
