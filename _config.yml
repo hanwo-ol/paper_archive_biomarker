@@ -8,8 +8,7 @@ header_pages:
   - sweat.md
   - saliva.md
   - urine.md
-  - sample-size.md
-  - precision-design.md
+  - biosensor-markers.md
 
 show_excerpts: false
 
