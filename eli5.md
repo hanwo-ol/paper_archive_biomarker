@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 쉽게 설명 (ELI5)
+title: 20260922
 permalink: /eli5/
 ---
 
@@ -11,13 +11,13 @@ KIST와 전북대병원이 협업 논의 중인 것은 혈당 시험지처럼, �
 ### 코펩틴
 
 **코펩틴**은 몸에 급한 일이 생기면 오르는 물질이다. 문제는 뇌졸중이 아니어도 스트레스만 받으면 오른다는 것인데, 그래서 코펩틴 혼자 쓰면 실제 뇌졸중 환자 13명 중 3명을 놓친다.
+(Value of copeptin and the S-100b protein assay in ruling out the diagnosis of stroke-induced dizziness pattern in emergency departments., IF 2025: 3.6)
 
 <img width="1017" height="614" alt="image" src="https://github.com/user-attachments/assets/9af980b7-aea4-48e7-a87a-6c30d8716ffa" />
 
 <img width="1014" height="187" alt="image" src="https://github.com/user-attachments/assets/56440930-7217-4a97-a0a6-5911b664a3e2" />
 
-  - Value of copeptin and the S-100b protein assay in ruling out the diagnosis of stroke-induced dizziness pattern in emergency departments.
-  - IF 2025: 3.6
+---
 
 ### S100β
 
@@ -26,24 +26,23 @@ KIST와 전북대병원이 협업 논의 중인 것은 혈당 시험지처럼, �
 <img width="1014" height="187" alt="image" src="https://github.com/user-attachments/assets/26eb927d-c702-4d15-868f-93cad158c1c8" />
 
 
+---
+
 ### CGRP
 
 **CGRP**는 어느 비교냐에 따라 결과가 갈린다.
 
 #### 침
-침에서 뽑아낸 CGRP가 편두통 환자 전반을 대조군과 구분하는 데 쓸모가 있다는 보고가 해외 연구(Alpuente 등, 2022)에서 나오는 반면.
+침에서 뽑아낸 CGRP가 편두통 환자 전반을 대조군과 구분하는 데 쓸모가 있다는 보고가 해외 연구에서 나오는 반면 (Salivary CGRP can monitor the different migraine phases: CGRP (in)dependent attacks., IF 2025: 5.8) .
 
 <img width="750" height="464" alt="image" src="https://github.com/user-attachments/assets/ffed84ac-53c9-4b69-8833-b6d8039214a7" />
 
 <img width="748" height="491" alt="image" src="https://github.com/user-attachments/assets/6bd9faa2-4dd8-4128-b1b7-aa49dc34b644" />
 
-- Salivary CGRP can monitor the different migraine phases: CGRP (in)dependent attacks
-- IF 2025: 5.8
+---
 
-우리 팀이 직접 수행했던 2025년 연구(Bai, Chu, Kang, Chae, Dieterich, Oh, *Cephalalgia*)는 만성편두통(CM)·전정편두통(VM)·건강대조군(HC) 세 그룹을 함께 비교했다. 
-
-- No change in interictal plasma and salivary CGRP levels in individuals with vestibular migraine corresponding to episodic migraine
-- IF 2025: 5.8
+직접 수행했던 2025년 연구(Bai, Chu, Kang, Chae, Dieterich, Oh, *Cephalalgia*)는 만성편두통(CM)·전정편두통(VM)·건강대조군(HC) 세 그룹을 함께 비교했다. 
+(No change in interictal plasma and salivary CGRP levels in individuals with vestibular migraine corresponding to episodic migraine., IF 2025: 5.8)
 
 <img width="744" height="449" alt="image" src="https://github.com/user-attachments/assets/6213ecf1-2193-454d-bf16-d8ba55cd83b8" />
 
@@ -60,13 +59,14 @@ KIST와 전북대병원이 협업 논의 중인 것은 혈당 시험지처럼, �
 
 
 즉 해당 연구에서 CGRP는 "편두통 아형을 가르는 지표"로는 유효했고 "전정편두통을 건강한 사람과 가르는 지표"로는 유효하지 않았다고 보고하고 있다.   
-CGRP는 이미 협업 로드맵의 3단계(코펩틴 단일 → 코펩틴+S100β 2-plex → **CGRP 안정화** → 눈물 용출 표준화)에 포함돼 있어 짚어 보았다.
+
+CGRP는 제시해주신 협업 로드맵의 3단계(코펩틴 단일 → 코펩틴+S100β 2-plex → **CGRP 안정화** → 눈물 용출 표준화)에 포함돼 있어 짚어 보았다.
 
 <img width="1288" height="76" alt="image" src="https://github.com/user-attachments/assets/ab1f951c-e973-4615-b7b0-751e7558a8db" />
 
-- 2026-08-25, 이관희 교수님 메일
+> 2026-08-25, 이관희 교수님 메일
 
-CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985, *Regulatory Peptides* — 정맥주사 실험에서 반감기 6.9±0.9분, 느린 성분 26.4±4.7분으로 측정. 단 1985년 건강인 대상 합성 CGRP 주입 실험값이라 편두통 발작 중 내인성 동역학을 직접 잰 것은 아님)을 감안하면, 채혈 시점이 결과에 영향을 줄 수 있다는 우려가 자연스럽게 든다.
+CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985, *Regulatory Peptides* — 정맥주사 실험에서 반감기 6.9±0.9분, 느린 성분 26.4±4.7분으로 측정. 단 1985년 건강인 대상 합성 CGRP 주입 실험값이라 편두통 발작 중 내인성 동역학을 직접 잰 것은 아님)을 감안하면, 채혈 시점이 결과에 영향을 줄 수 있다는 우려가 있다.
 
 그런데 실제로 VM-HC를 비교한 다른 독립 연구를 찾아보니, 원인은 "채혈 시점"이 아니었다. **Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했는데, 이 연구도 Bai(2025/2026)와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었다 — 다만 최소 경과시간을 정하지 않고 "지금 발작 중이 아니면 됨" 정도로 느슨하게 정의했다는 차이는 있다.
 
