@@ -90,3 +90,24 @@ print("\n=== 참고: 코펩틴 단독 민감도 파일럿 CI (Wilson score) ==="
 from statsmodels.stats.proportion import proportion_confint
 ci_low, ci_high = proportion_confint(10, 13, alpha=0.05, method='wilson')
 print(f"n=13, 10/13 -> Wilson 95% CI = [{ci_low:.3f}, {ci_high:.3f}]")
+
+# ---------------------------------------------------------------
+# 4. 센서 기술적 재현성(technical reproducibility) — ICC 표본수
+#    T0/T1/T2는 시점 간 값이 달라야 정상인 임상 동역학 설계이므로 ICC 대상이 아님.
+#    ICC는 "동일 검체를 카트리지로 중복 측정"하는 별도의 기술재현성 서브스터디에 적용.
+#    공식(Bonett 2002; 분산 근사는 Fleiss 1986/Shrout & Fleiss 1979와 동일 구조):
+#    n = 1 + 2*z_a^2*(1-rho)^2*(1+(k-1)rho)^2 / (k*(k-1)*w^2)
+#    rho: 계획 ICC, k: 중복측정 횟수, w: 목표 95% CI 반폭
+# ---------------------------------------------------------------
+print("\n=== 4. 센서 기술적 재현성(중복측정) ICC 표본수 ===")
+
+def icc_sample_size(rho, k, w, z_alpha=Z_ALPHA):
+    num = 2 * z_alpha**2 * (1 - rho)**2 * (1 + (k - 1) * rho)**2
+    den = k * (k - 1) * w**2
+    return 1 + num / den
+
+for rho in [0.90, 0.85]:
+    for k in [2, 3]:
+        for w in [0.10, 0.05]:
+            n = icc_sample_size(rho, k, w)
+            print(f"rho={rho}, k={k}(중복측정 횟수), w=±{w} -> n={n:.1f} -> 올림 {np.ceil(n):.0f}명")

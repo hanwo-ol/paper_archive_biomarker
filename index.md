@@ -27,3 +27,5 @@ JBUH Vestibular LAB · 제작/최종 수정: 2026-09-21
 ## KIST-JBNU 공동연구 표본크기 산정
 
 전북대학교병원 × KIST 생체분자인식연구센터 다중 바이오센서 카트리지(코펩틴/S100β/CGRP) 검증 프로토콜의 문헌 기반 표본크기 산정. [바로가기]({{ '/sample-size/' | relative_url }})
+
+정밀도·재현성(ICC)·방법 간 일치도(Bland-Altman) 통계 설계. [바로가기]({{ '/precision-design/' | relative_url }})

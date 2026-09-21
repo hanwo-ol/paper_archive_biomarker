@@ -9,6 +9,7 @@ header_pages:
   - saliva.md
   - urine.md
   - sample-size.md
+  - precision-design.md
 
 show_excerpts: false
 
