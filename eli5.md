@@ -11,11 +11,18 @@ permalink: /eli5/
 KIST와 전북대병원이 협업 논의 중인 것은 혈당 시험지처럼, 피·침·눈물 한 방울로 뇌졸중이나 편두통을 바로 진단하는 카트리지다.
 
 - **코펩틴**은 몸에 급한 일이 생기면 오르는 물질이다. 문제는 뇌졸중이 아니어도 스트레스만 받으면 오른다는 것인데, 그래서 코펩틴 혼자 쓰면 실제 뇌졸중 환자 13명 중 3명을 놓친다.
-  - Value of copeptin and the S-100b protein assay in ruling out the diagnosis of stroke-induced dizziness pattern in emergency departments
+
+<img width="1017" height="614" alt="image" src="https://github.com/user-attachments/assets/9af980b7-aea4-48e7-a87a-6c30d8716ffa" />
+
+<img width="1014" height="187" alt="image" src="https://github.com/user-attachments/assets/56440930-7217-4a97-a0a6-5911b664a3e2" />
+
+  - Value of copeptin and the S-100b protein assay in ruling out the diagnosis of stroke-induced dizziness pattern in emergency departments.
   - IF 2025: 3.6 (without self citation - 3.1)
 
-
 - **S100β**는 다르다. 뇌 조직이 실제로 손상됐을 때만 새어 나온다. 두 개를 같이 쓰면 코펩틴이 놓친 3명을 S100β가 잡아내서, 파일럿 연구에서 13명 전원을 놓치지 않았다.
+
+<img width="1014" height="187" alt="image" src="https://github.com/user-attachments/assets/26eb927d-c702-4d15-868f-93cad158c1c8" />
+
 
 - **CGRP**는 반전이 있다. 침에서 뽑아낸 CGRP는 일반 편두통 환자를 구분하는 데는 쓸모가 있다.
   - 실제로 다루려는 전정편두통(어지럼증형 편두통) 환자한테는, 2025년 논문에서 CGRP가 정상인과 차이가 없다고 나온 전례가 있다.
