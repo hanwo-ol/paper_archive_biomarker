@@ -34,8 +34,17 @@ KIST와 전북대병원은
 
 **CGRP**는 어느 비교냐에 따라 결과가 갈린다.
 
-#### 침
-침에서 뽑아낸 CGRP가 편두통 환자 전반을 대조군과 구분하는 데 쓸모가 있다는 보고가 해외 연구에서 나오는 반면 (Salivary CGRP can monitor the different migraine phases: CGRP (in)dependent attacks., IF 2025: 5.8) .
+#### 왜 CGRP를 짚는가
+CGRP는 제시해주신 협업 로드맵의 3단계(코펩틴 단일 → 코펩틴+S100β 2-plex → **CGRP 안정화** → 눈물 용출 표준화)에 포함돼 있어 짚어 보았다.
+
+<img width="1288" height="76" alt="image" src="https://github.com/user-attachments/assets/ab1f951c-e973-4615-b7b0-751e7558a8db" />
+
+> 2026-08-25, 이관희 교수님 메일
+
+---
+
+#### 일반 편두통에서는 (참고)
+침에서 뽑아낸 CGRP가 편두통 환자 전반을 대조군과 구분하는 데 쓸모가 있다는 보고가 해외 연구에서 나온다 (Salivary CGRP can monitor the different migraine phases: CGRP (in)dependent attacks., IF 2025: 5.8) .
 
 <img width="750" height="464" alt="image" src="https://github.com/user-attachments/assets/ffed84ac-53c9-4b69-8833-b6d8039214a7" />
 
@@ -43,6 +52,7 @@ KIST와 전북대병원은
 
 ---
 
+#### 우리가 실제로 필요한 비교 — 전정편두통(VM)에서는
 직접 수행했던 2025년 연구(Bai, Chu, Kang, Chae, Dieterich, Oh, *Cephalalgia*)는 만성편두통(CM)·전정편두통(VM)·건강대조군(HC) 세 그룹을 함께 비교했다. 
 (No change in interictal plasma and salivary CGRP levels in individuals with vestibular migraine corresponding to episodic migraine., IF 2025: 5.8)
 
@@ -60,21 +70,17 @@ KIST와 전북대병원은
 <img width="656" height="219" alt="image" src="https://github.com/user-attachments/assets/9efc7e7b-2505-42a3-8f36-a7ef1d4b5a67" />
 
 
-즉 해당 연구에서 CGRP는 "편두통 아형을 가르는 지표"로는 유효했고 "전정편두통을 건강한 사람과 가르는 지표"로는 유효하지 않았다고 보고하고 있다.   
+즉 해당 연구에서 CGRP는 "편두통 아형을 가르는 지표"로는 유효했고 "전정편두통을 건강한 사람과 가르는 지표"로는 유효하지 않았다고 보고하고 있다.
 
-CGRP는 제시해주신 협업 로드맵의 3단계(코펩틴 단일 → 코펩틴+S100β 2-plex → **CGRP 안정화** → 눈물 용출 표준화)에 포함돼 있어 짚어 보았다.
+---
 
-<img width="1288" height="76" alt="image" src="https://github.com/user-attachments/assets/ab1f951c-e973-4615-b7b0-751e7558a8db" />
+#### 그런데 다른 독립 연구는 반대로 말한다
+실제로 VM-HC를 비교한 다른 독립 연구를 찾아보니 결과가 갈렸다. **Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했다.
 
-> 2026-08-25, 이관희 교수님 메일
+#### 왜 갈렸을까
+처음엔 채혈 시점을 의심했다. CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985, *Regulatory Peptides* — 정맥주사 실험에서 반감기 6.9±0.9분, 느린 성분 26.4±4.7분. 단 1985년 건강인 대상 합성 CGRP 주입 실험값)을 감안하면 자연스러운 의심이었다. 그런데 확인해보니 Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(다만 최소 경과시간은 미기록), **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의차가 없었다(p=0.092) — 시점 가설은 기각됐다.
 
-CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985, *Regulatory Peptides* — 정맥주사 실험에서 반감기 6.9±0.9분, 느린 성분 26.4±4.7분으로 측정. 단 1985년 건강인 대상 합성 CGRP 주입 실험값이라 편두통 발작 중 내인성 동역학을 직접 잰 것은 아님)을 감안하면, 채혈 시점이 결과에 영향을 줄 수 있다는 우려가 있다.
-
-그런데 실제로 VM-HC를 비교한 다른 독립 연구를 찾아보니, 원인은 "채혈 시점"이 아니었다. **Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했는데, 이 연구도 Bai(2025/2026)와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었다 — 다만 최소 경과시간을 정하지 않고 "지금 발작 중이 아니면 됨" 정도로 느슨하게 정의했다는 차이는 있다.
-
-두 연구를 나란히 대조하면 확정적으로 다른 지점은 시점이 아니라 **검체 종류와 분석 키트**다: Bai는 혈장(plasma)에 Bertin사 키트(A05481), Liu는 혈청(serum)에 Elabscience사 키트(E-EL-H0619)를 썼다.
-
-이 문제는 이 두 논문만의 얘기가 아니다. **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나왔고, ictal-interictal 비교에서도 유의차가 없었다(p=0.092) — 즉 채혈 시점이 문제가 아니라는 걸 이 논문도 독립적으로 확인했다. 이 논문은 Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용하는데, 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 15편 이상이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
+확정적으로 다른 지점은 **검체 종류와 분석 키트**였다: Bai는 혈장(plasma)에 Bertin사 키트(A05481), Liu는 혈청(serum)에 Elabscience사 키트(E-EL-H0619)를 썼다. Karlsson(RIA)은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나와 세 번째 방향을 제시했고, Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용했다 — 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 15편 이상이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
 
 정리하면 코펩틴/S100β와 달리 CGRP는 같은 질문("편두통군이 대조군과 CGRP가 다른가")에 대해 문헌마다 "높다/없다/낮다"로 답이 갈리고, 그 원인이 검체·키트·분석법 차이일 가능성이 문헌으로 뒷받침된다.
 
