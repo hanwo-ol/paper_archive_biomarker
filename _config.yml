@@ -3,6 +3,7 @@ description: JBUH Vestibular LAB — 체액별 Parkinson's Disease 바이오마�
 theme: minima
 
 header_pages:
+  - pd-summary.md
   - blood.md
   - tears.md
   - sweat.md
