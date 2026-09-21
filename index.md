@@ -23,3 +23,7 @@ JBUH Vestibular LAB · 제작/최종 수정: 2026-09-21
 | 뇨 | 3건 / 11건 | [바로가기]({{ '/urine/' | relative_url }}) |
 
 원본: `biomarkers.pptx` · 감사 통과 문헌 원장: `screened_papers.csv` (30건)
+
+## KIST-JBNU 공동연구 표본크기 산정
+
+전북대학교병원 × KIST 생체분자인식연구센터 다중 바이오센서 카트리지(코펩틴/S100β/CGRP) 검증 프로토콜의 문헌 기반 표본크기 산정. [바로가기]({{ '/sample-size/' | relative_url }})
