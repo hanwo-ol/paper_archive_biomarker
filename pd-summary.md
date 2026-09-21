@@ -10,6 +10,8 @@ JBUH Vestibular LAB · 2026-09-21
 
 66건 1차 검색 중 감사(DOI/본문 직접 대조) 통과 30건에서 체액별 대표 근거만 추렸다. 전체 목록은 [혈액]({{ '/blood/' | relative_url }})·[눈물]({{ '/tears/' | relative_url }})·[땀/피지]({{ '/sweat/' | relative_url }})·[타액]({{ '/saliva/' | relative_url }})·[뇨]({{ '/urine/' | relative_url }}) 페이지에 있다.
 
+쉽게 풀어쓴 버전은 [여기]({{ '/eli5/' | relative_url }})에 있다.
+
 ## 혈액 (13건 감사 통과)
 
 | 논문 | 실제 보고 내용 |

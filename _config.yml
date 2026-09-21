@@ -10,6 +10,7 @@ header_pages:
   - saliva.md
   - urine.md
   - biosensor-markers.md
+  - eli5.md
 
 show_excerpts: false
 
