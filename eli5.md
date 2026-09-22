@@ -53,7 +53,7 @@ KIST와 전북대병원은
 
 ### S100B
 
-**S100B**는 다르다. 뇌 조직이 실제로 손상됐을 때만 새어 나온다 (뇌척수액 등에서 나오는 것으로 wiki에서 읽었음). 
+**S100B**는 다르다. 뇌 조직이 실제로 손상됐을 때만 새어 나온다 (뇌혈관 장벽이 무너졌을 때, 뇌척수액 등에서 나오는 것으로 wiki에서 읽었음). 
 - 위와 같은 파일럿 연구에서 코펩틴과 S100B를 같이 썼더니 코펩틴이 놓친 뇌졸증 환자 3명을 S100B가 잡아냈다.
 - 13명 전원을 놓치지 않았다.
 
@@ -91,7 +91,6 @@ KIST와 전북대병원은
 동시에, 이번 논의 된 주제 중 하나인 **VM과 HC 사이**에서는 혈장·타액 CGRP 모두 유의한 차이가 없었다(혈장 p=1.000, 타액 p=0.699).
 
 <img width="656" height="219" alt="image" src="https://github.com/user-attachments/assets/9efc7e7b-2505-42a3-8f36-a7ef1d4b5a67" />
-
 
 즉 해당 연구에서 CGRP는 "편두통 아형을 가르는 지표"로는 유효했고 "전정편두통을 건강한 사람과 가르는 지표"로는 유효하지 않았다고 보고하고 있다.
 
@@ -156,7 +155,7 @@ $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\te
 | Liu 2026 | VM vs HC | 혈청 | VM에서 더 높음(positive) — median 53.45 vs 18.58 pg/mL, p<0.01 |
 | Karlsson 2026 | 편두통(일반) vs HC | 혈장 | 편두통에서 더 낮음(negative) — median 125 vs 151 pmol/L, p<0.001 |
 
-- 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 11편이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
+- 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 11편이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 측정하고 있을 수도 있다"는 걸 보여준 근거다.
 
 > "Kit A did not detect bioactive forms of human α-CGRP or β-CGRP, nor mouse α-CGRP or β-CGRP." — Abstract, Results
 >
@@ -183,6 +182,13 @@ Garelja et al. 2025(*Headache*)는 질량분석으로 상용 CGRP ELISA 키트(C
 - **눈물 AChR**은 아무도 해본 적 없는 영역이다. 참고할 선행 연구가 없다.
 
 > 요약: 코펩틴+S100B 조합은 근거가 있고, CGRP와 눈물 AChR은 각각 다른 이유로 아직 확실하지 않다.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## PD 바이오마커 요약
 
