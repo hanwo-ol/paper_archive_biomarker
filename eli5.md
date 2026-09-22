@@ -134,11 +134,21 @@ $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\te
 
 <img width="761" height="90" alt="image" src="https://github.com/user-attachments/assets/5d777ad1-5c8c-40cd-a9b9-4c99403f8a67" />
 
+그런데, 
+- Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(최소 발작 후 경과시간은 기록 x),
+- **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의한 차이가 없었다(p=0.092).
 
-- 그런데 확인해보니 Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(다만 최소 경과시간은 미기록),
-- **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의차가 없었다(p=0.092) — 시점 가설은 기각됐다.
+<img width="509" height="347" alt="image" src="https://github.com/user-attachments/assets/0232902c-1dec-4ff3-a1ff-71c06b6e24df" />
 
-확정적으로 다른 지점은 **검체 종류와 분석 키트**였다: Bai는 혈장(plasma)에 Bertin사 키트(A05481), Liu는 혈청(serum)에 Elabscience사 키트(E-EL-H0619)를 썼다. Karlsson(RIA)은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나와 세 번째 방향을 제시했고, Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용했다 — 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 15편 이상이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
+- 채혈 시점 때문에 CGRP의 유의함이 달라진 것 같지는 않다.
+
+**그렇다면?**
+확정적으로 다른 지점은 **검체 종류와 분석 키트**였다
+- Bai는 혈장(plasma)에 Bertin사 키트(A05481), Liu는 혈청(serum)에 Elabscience사 키트(E-EL-H0619)를 썼다.
+- Karlsson(RIA)은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나와 세 번째 방향을 제시했고, Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용했다
+
+
+- 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 15편 이상이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
 
 정리하면 코펩틴/S100B와 달리 CGRP는 같은 질문("편두통군이 대조군과 CGRP가 다른가")에 대해 문헌마다 "높다/없다/낮다"로 답이 갈리고, 그 원인이 검체·키트·분석법 차이일 가능성이 문헌으로 뒷받침된다.
 
