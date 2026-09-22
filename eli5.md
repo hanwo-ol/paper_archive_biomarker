@@ -77,7 +77,7 @@ KIST와 전북대병원은
 
 #### VM-HC를 다룬 다른 연구
 **Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**
-은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했다.
+은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했다. (IF 3.1. Clinical characteristics and exploratory serum biomarker findings in vestibular migraine: a cross-sectional case–control study)
 
 <img width="1069" height="613" alt="image" src="https://github.com/user-attachments/assets/66cf410c-ceb2-4a93-8f12-129d8f2442a2" />
 
@@ -101,7 +101,8 @@ Liu 논문은 단순 비교(AUC=0.794)뿐 아니라, CGRP·FGF-21·GDF-15 세 �
 | 95% CI | 1.035–2.123 | $\exp(0.394 \pm 1.96\times0.183)$. 1을 포함하지 않아 P<0.05와 같은 결론을 재확인해준다. |
 
 > 이 모델의 종속변수는 "VM 여부"(VM=1, 건강 대조군=0)이고, 독립변수는 CGRP·FGF-21·GDF-15(각각 10 pg/mL 단위) 세 개를 동시에 넣었다. 즉 CGRP만 따로 본 게 아니라 "다른 두 마커를 고정했을 때 CGRP가 그래도 VM을 가르는가"를 검정한 결과다. 식으로 쓰면:
-> $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\text{FGF-21}} + 0.214\,X_{\text{GDF-15}}$$
+
+$$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\text{FGF-21}} + 0.214\,X_{\text{GDF-15}}$$
 
 ---
 
