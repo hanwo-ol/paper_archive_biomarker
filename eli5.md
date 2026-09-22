@@ -115,8 +115,16 @@ $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\te
 
 ---
 
-#### 왜 갈렸을까
-처음엔 채혈 시점을 의심했다. CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985, *Regulatory Peptides* — 정맥주사 실험에서 반감기 6.9±0.9분, 느린 성분 26.4±4.7분. 단 1985년 건강인 대상 합성 CGRP 주입 실험값)을 감안하면 자연스러운 의심이었다. 그런데 확인해보니 Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(다만 최소 경과시간은 미기록), **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의차가 없었다(p=0.092) — 시점 가설은 기각됐다.
+#### 어떤 차이가 있지
+**채혈 시점이 다른가?**
+- CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985)을 감안하면 자연스러운 의심이었다.
+
+<img width="685" height="590" alt="image" src="https://github.com/user-attachments/assets/2c8083e3-237e-45a4-9476-f48361d7e7c0" />
+
+<img width="761" height="90" alt="image" src="https://github.com/user-attachments/assets/5d777ad1-5c8c-40cd-a9b9-4c99403f8a67" />
+
+
+- 그런데 확인해보니 Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(다만 최소 경과시간은 미기록), **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의차가 없었다(p=0.092) — 시점 가설은 기각됐다.
 
 확정적으로 다른 지점은 **검체 종류와 분석 키트**였다: Bai는 혈장(plasma)에 Bertin사 키트(A05481), Liu는 혈청(serum)에 Elabscience사 키트(E-EL-H0619)를 썼다. Karlsson(RIA)은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나와 세 번째 방향을 제시했고, Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용했다 — 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 15편 이상이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
 
@@ -143,7 +151,6 @@ $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\te
 
 **소변(3편)**: 원래 검색에서는 13편이 걸렸지만, 하나하나 확인하니 10편이 실제로는 혈액이나 뇌척수액을 다룬 연구를 소변 연구로 잘못 분류해놓은 것이었다. 진짜 소변 특이적 근거는 Winter(2021, 단백질 361종 차이, 판별 모델 민감도 78%·특이도 73%)와 Dhiman(2025) 메타분석 등 3편뿐이라, 다섯 체액 중 근거가 가장 얇다.
 
-> 요약: 논문 개수보다 검증을 통과한 개수가 중요하고, 여러 독립 연구가 같은 결과를 반복해서 낸 침(타액)이 다섯 체액 중 가장 신뢰할 수 있는 근거를 가지고 있다.
 
 ---
 
