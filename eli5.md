@@ -140,10 +140,10 @@ $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\te
 
 <img width="509" height="347" alt="image" src="https://github.com/user-attachments/assets/0232902c-1dec-4ff3-a1ff-71c06b6e24df" />
 
-- 채혈 시점 때문에 CGRP의 유의함이 달라진 것 같지는 않다.
+- 조사한 논문들을 종합해보면, 채혈 시점 때문에 CGRP의 유의함이 달라진 것 같지는 않다.
 
 **그렇다면?**
-확정적으로 다른 지점은 **검체 종류와 분석 키트**였다
+조사로 확인 가능한 차이점은 **검체 종류와 분석 키트**였다
 - Bai는 혈장(plasma)에 Bertin사 키트(A05481), Liu는 혈청(serum)에 Elabscience사 키트(E-EL-H0619)를 썼다.
 - Karlsson(RIA)은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나와 세 번째 방향을 제시했고, Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용했다
 
