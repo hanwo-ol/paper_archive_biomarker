@@ -4,6 +4,8 @@ title: 20260922
 permalink: /eli5/
 ---
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js" id="MathJax-script" async></script>
+
 ## KIST-JBNU 바이오센서 마커
 
 KIST와 전북대병원은 
