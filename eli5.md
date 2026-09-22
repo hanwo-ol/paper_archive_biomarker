@@ -148,7 +148,15 @@ $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\te
 - Karlsson(RIA)은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나와 세 번째 방향을 제시했고, Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용했다
 
 
-- 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 15편 이상이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
+- 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 11편이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
+
+> "Kit A did not detect bioactive forms of human α-CGRP or β-CGRP, nor mouse α-CGRP or β-CGRP." — Abstract, Results
+>
+> "We were unable to detect any CGRP-related peptides with mass spectrometry... the standard contains a complex matrix of other proteins, notably bovine serum albumin." — Discussion, p.1751
+>
+> "A CGRP ELISA kit produced by Cusabio (Cat# CSB-E08210h), that herein we refer to as 'Kit A,' has now been used by researchers in a range of patient samples, including plasma, tear fluid, saliva, and serum.3-8,12,14-17" — Introduction, p.1746
+>
+> Garelja ML, Rees TA, Hay DL. "Calcitonin gene-related peptide and headache: comparison of two commonly used assay kits highlights the perils of measuring neuropeptides with enzyme-linked immunosorbent assays." *Headache*. 2025;65(10):1744-1753. doi:10.1111/head.15011
 
 정리하면 코펩틴/S100B와 달리 CGRP는 같은 질문("편두통군이 대조군과 CGRP가 다른가")에 대해 문헌마다 "높다/없다/낮다"로 답이 갈리고, 그 원인이 검체·키트·분석법 차이일 가능성이 문헌으로 뒷받침된다.
 
