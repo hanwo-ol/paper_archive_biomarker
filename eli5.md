@@ -76,11 +76,16 @@ KIST와 전북대병원은
 ---
 
 #### VM-HC를 다룬 다른 연구
-**Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했다.
+**Liu et al. 2026(*Frontiers in Neurology*, 중국 허난중의약대학)**
+은 같은 비교(VM 60명 vs HC 20명)에서 **정반대 결과**(혈청 CGRP가 VM을 유의하게 판별, AUC=0.794)를 보고했다.
 
 <img width="1069" height="613" alt="image" src="https://github.com/user-attachments/assets/66cf410c-ceb2-4a93-8f12-129d8f2442a2" />
 
+-
+
 <img width="1085" height="272" alt="image" src="https://github.com/user-attachments/assets/74ad9b07-84d7-4a83-9522-225d0ea6c393" />
+
+-
 
 <img width="1070" height="574" alt="image" src="https://github.com/user-attachments/assets/8ed8704b-115b-46d2-95eb-2628546864ee" />
 
