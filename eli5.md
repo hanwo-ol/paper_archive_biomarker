@@ -150,6 +150,11 @@ $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\te
 - Bai는 혈장(plasma)에 Bertin사 키트(A05481), Liu는 혈청(serum)에 Elabscience사 키트(E-EL-H0619)를 썼다.
 - Karlsson(RIA)은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나와 세 번째 방향을 제시했고, Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용했다
 
+| 연구 | 비교 대상 | 측정 검체 | 결과 방향 |
+|---|---|---|---|
+| Bai 2025 | VM vs HC | 혈장·타액 | 차이 없음(null) — 혈장 p=1.000, 타액 p=0.699 |
+| Liu 2026 | VM vs HC | 혈청 | VM에서 더 높음(positive) — median 53.45 vs 18.58 pg/mL, p<0.01 |
+| Karlsson 2026 | 편두통(일반) vs HC | 혈장 | 편두통에서 더 낮음(negative) — median 125 vs 151 pmol/L, p<0.001 |
 
 - 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 11편이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
 
