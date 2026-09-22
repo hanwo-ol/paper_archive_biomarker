@@ -119,7 +119,8 @@ Liu 논문은 단순 비교(AUC=0.794)뿐 아니라, CGRP·FGF-21·GDF-15 세 �
 | 보정 OR | 1.483 | 오즈비, $\exp(0.394)$. CGRP가 10 pg/mL 오를 때마다 "VM일 오즈"가 약 1.48배로 커진다. |
 | 95% CI | 1.035–2.123 | $\exp(0.394 \pm 1.96\times0.183)$. 1을 포함하지 않아 P<0.05와 같은 결론을 재확인해준다. |
 
-> 이 모델의 종속변수는 "VM 여부"(VM=1, 건강 대조군=0)이고, 독립변수는 CGRP·FGF-21·GDF-15(각각 10 pg/mL 단위) 세 개를 동시에 넣었다. 즉 CGRP만 따로 본 게 아니라 "다른 두 마커를 고정했을 때 CGRP가 그래도 VM을 가르는가"를 검정한 결과다. 식으로 쓰면:
+이 모델의 종속변수는 "VM 여부"(VM=1, 건강 대조군=0)이고, 독립변수는 CGRP·FGF-21·GDF-15(각각 10 pg/mL 단위) 세 개를 동시에 넣었다. 
+- 즉 CGRP만 따로 본 게 아니라 "다른 두 마커를 고정했을 때 CGRP가 그래도 VM을 가르는가"를 검정한 결과다. 식으로 쓰면:
 
 $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\text{FGF-21}} + 0.214\,X_{\text{GDF-15}}$$
 
@@ -127,14 +128,15 @@ $$\text{logit}(P(\text{VM}=1)) = -2.612 + 0.394\,X_{\text{CGRP}} + 0.066\,X_{\te
 
 #### 어떤 차이가 있지
 **채혈 시점이 다른가?**
-- CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985)을 감안하면 자연스러운 의심이었다.
+- CGRP가 혈중에서 빠르게 사라진다는 점(Kraenzlin et al. 1985)을 생각해 봄.
 
 <img width="685" height="590" alt="image" src="https://github.com/user-attachments/assets/2c8083e3-237e-45a4-9476-f48361d7e7c0" />
 
 <img width="761" height="90" alt="image" src="https://github.com/user-attachments/assets/5d777ad1-5c8c-40cd-a9b9-4c99403f8a67" />
 
 
-- 그런데 확인해보니 Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(다만 최소 경과시간은 미기록), **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의차가 없었다(p=0.092) — 시점 가설은 기각됐다.
+- 그런데 확인해보니 Liu도 Bai와 마찬가지로 **interictal(발작이 없는 시기)** 채혈이었고(다만 최소 경과시간은 미기록),
+- **Karlsson et al. 2026(*Neurology*, 편두통 588명 vs 대조군 147명, RIA 방식)**도 ictal-interictal 비교에서 유의차가 없었다(p=0.092) — 시점 가설은 기각됐다.
 
 확정적으로 다른 지점은 **검체 종류와 분석 키트**였다: Bai는 혈장(plasma)에 Bertin사 키트(A05481), Liu는 혈청(serum)에 Elabscience사 키트(E-EL-H0619)를 썼다. Karlsson(RIA)은 오히려 편두통군에서 CGRP가 **더 낮게**(125 vs 151 pmol/L, p<0.001) 나와 세 번째 방향을 제시했고, Discussion에서 **Garelja et al. 2025(*Headache*)**를 인용했다 — 이 연구는 CGRP ELISA 키트 두 종(Cusabio CSB-E08210h vs Bertin A05481)을 직접 비교해 Cusabio 키트가 실제 CGRP를 전혀 검출하지 못한다는 것(질량분석 결과 표준물질이 CGRP가 아니라 소혈청알부민이었음)을 밝혔고, 이 결함 키트를 쓴 기존 논문이 15편 이상이라고 지적했다. Bai(Bertin)와 Liu(Elabscience)는 둘 다 이 "결함 키트"(Cusabio)를 쓴 건 아니라서 이 연구가 둘의 차이를 직접 설명하진 않지만, "CGRP ELISA 키트는 제조사에 따라 완전히 다른 걸 잴 수도 있다"는 걸 별도 전문(full text)으로 확인해주는 근거다.
 
